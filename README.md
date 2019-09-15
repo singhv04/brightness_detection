@@ -1,5 +1,7 @@
 # brightness_detection
 
+* Note: the error while training "filenotfound" occured as i moved the folder train and val to other directory during the training for uploading only necessary files on github.
+
 * Requirements
 
   * apt-get install python3-pip
