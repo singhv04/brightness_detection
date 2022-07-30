@@ -3,14 +3,13 @@
 * Note: the error while training "filenotfound" occured as i moved the folder train and val to other directory during the training for uploading only necessary files on github.
 
 * Requirements
-
-  * apt-get install python3-pip
-  * pip3 install torch
-  * pip3 install torchvision
-  * pip3 install opencv-python
-  * pip3 install matplotlib
-  * pip3 install numpy
-  * pip3 install Pillow
+  
+  * torch
+  * torchvision
+  * opencv-python
+  * matplotlib
+  * numpy
+  * Pillow
 
   * JPEGImages folder (from Imagenet dataset): Provided
 
